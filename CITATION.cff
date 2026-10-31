@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Membrane Muscle
+version: 0.1.0
+date-released: 2026-10-26
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: https://orcid.org/0009-0000-9778-5374
+    affiliation: Spark AI NLP, Fredericton, New Brunswick, Canada
+  - family-names: Lee
+    given-names: Mun Seok
+license: AGPL-3.0-only
+repository-code: https://github.com/sparkainlp-x/membrane-muscle
+abstract: >-
+  A membrane toy on a 24-muscle-group-node graph, with stored movements as labels and a frozen refusing gate. Synthetic toy only, not physiology or medicine.
